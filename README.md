@@ -1,4 +1,4 @@
-# Plugins
+# 3Box Plugins
 Drop-in components for your application
 
 ### [Comments](https://github.com/3box/3box-comments-react)
