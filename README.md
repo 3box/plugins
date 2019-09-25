@@ -1,4 +1,4 @@
-# 3Box Plugins
+# 3Box Plugin Ecosystem
 Drop-in components for your application
 
 ### [Profile Hover](https://github.com/3box/profile-hover)
