@@ -1,11 +1,11 @@
-# 3Box Plugin Ecosystem
-Drop-in components for your application
+# 3Box Plugins
+An ecosystem of drop-in components for your application
 
-### [Profile Hover](https://github.com/3box/profile-hover)
-A simple plugin for adding 3Box profile hover overlays to your react app.
+### [Profile Hover](https://docs.3box.io/build/plugins/profile-hover)
+💥 A simple plugin for adding 3Box profile hover overlays to your react app.
 
-### [Comments](https://github.com/3box/3box-comments-react)
+### [Comments](https://docs.3box.io/build/plugins/comments)
 💬 A simple plugin for adding a comments section to your react app.
 
-### [Chatbox](https://github.com/3box/3box-chatbox)
-[Coming soon]
+### [Chatbox](https://docs.3box.io/build/plugins/chatbox)
+👻 A simple plugin for adding embedded or popup chatrooms to your react app.
